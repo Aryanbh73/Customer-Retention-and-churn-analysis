@@ -32,8 +32,11 @@ The Net Promoter Score (NPS) is -2, indicating more detractors than promoters an
 <img width="999" height="100" alt="insi 1" src="https://github.com/user-attachments/assets/5b356ba8-bccb-4b6a-9bf5-fad319420b87" />
 
 
-<img width="400" height="260" alt="insi 2" src="https://github.com/user-attachments/assets/e863ab37-165b-460e-b8b2-53f625d3e8fc" />
-<img width="400" height="260" alt="insi 3" src="https://github.com/user-attachments/assets/33eae3a7-0d9c-47c6-acfd-e58dd4fff4a8" />
+<img width="640" height="480" alt="Figure_5" src="https://github.com/user-attachments/assets/8a557bab-3338-469e-a577-d72d7d1bdd0f" />
+
+
+<img width="640" height="480" alt="Figure_6" src="https://github.com/user-attachments/assets/8d1b524f-aca4-41c0-a361-4203e76e3bd3" />
+
 
 Main Findings:
 
@@ -45,7 +48,8 @@ Main Findings:
 
 - Login patterns show long inactivity before churn.
 
-<img width="400" height="240" alt="insi 5" src="https://github.com/user-attachments/assets/50508bb6-8dae-45d6-a35e-30a55553f2dd" />
+<img width="600" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/489aa1ce-4705-407f-ba2e-40a6915640f6" />
+
 
 ## Insights Deep Dive
 
@@ -57,7 +61,7 @@ Main Findings:
 
 - On the other hand cancelled/churned users stay consistent on the same number with little bit of upward and downward going.
 
-  <img width="626" height="180" alt="insi 4" src="https://github.com/user-attachments/assets/3dd94b6b-2c5c-4144-8f00-0e559d11956b" />
+  <img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/13caa608-2323-4f0c-84a4-03b27e8052ff" />
 
 
 ### Customer Segments
@@ -68,7 +72,7 @@ Main Findings:
 
 - While there is also a small and consistent amount of other active users(79).
 
-  <img width="228" height="161" alt="insi 2" src="https://github.com/user-attachments/assets/3bc13390-7ea0-4136-8efe-8f5d1bdfd790" />
+  <img width="1366" height="663" alt="Figure_2" src="https://github.com/user-attachments/assets/04a3616d-b828-4487-8491-6c2394e6f961" />
 
 
 ### Cancellation Reasons
@@ -85,7 +89,8 @@ Top churn reasons:
 
 - Lack of Use (25)
 
-  <img width="253" height="198" alt="insi 3" src="https://github.com/user-attachments/assets/c11f05e5-d9e4-4ea5-a989-3bd58038b7bb" />
+  <img width="640" height="480" alt="Figure_4" src="https://github.com/user-attachments/assets/cd3016d1-210e-47e2-af30-266d9d0736ce" />
+
 
 
 ### NPS Analysis
